@@ -1,0 +1,24 @@
+{
+  "name": "client-using-express",
+  "version": "1.0.0",
+  "description": "restful web api server using express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restful",
+    "web",
+    "api",
+    "server"
+  ],
+  "author": "pizzasperoni",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0",
+    "body-parser":"*",
+    "mongoose": "*"
+
+  }
+}
